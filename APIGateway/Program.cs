@@ -8,7 +8,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddOcelot();
 
 var app = builder.Build();
-//comment
+
 app.UseOcelot();
 
 app.UseHttpsRedirection();
