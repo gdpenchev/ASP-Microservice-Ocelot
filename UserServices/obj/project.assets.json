@@ -2067,11 +2067,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gpenchev\\source\\repos\\SimpleMicroservice\\UserServices\\UserServices.csproj",
+      "projectUniqueName": "C:\\Users\\gpenchev\\source\\repos\\ASP-Microservice-Ocelot\\UserServices\\UserServices.csproj",
       "projectName": "UserServices",
-      "projectPath": "C:\\Users\\gpenchev\\source\\repos\\SimpleMicroservice\\UserServices\\UserServices.csproj",
+      "projectPath": "C:\\Users\\gpenchev\\source\\repos\\ASP-Microservice-Ocelot\\UserServices\\UserServices.csproj",
       "packagesPath": "C:\\Users\\gpenchev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gpenchev\\source\\repos\\SimpleMicroservice\\UserServices\\obj\\",
+      "outputPath": "C:\\Users\\gpenchev\\source\\repos\\ASP-Microservice-Ocelot\\UserServices\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gpenchev\\AppData\\Roaming\\NuGet\\NuGet.Config",

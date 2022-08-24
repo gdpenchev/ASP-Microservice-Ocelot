@@ -417,11 +417,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gpenchev\\source\\repos\\SimpleMicroservice\\APIGateway\\APIGateway.csproj",
+      "projectUniqueName": "C:\\Users\\gpenchev\\source\\repos\\ASP-Microservice-Ocelot\\APIGateway\\APIGateway.csproj",
       "projectName": "APIGateway",
-      "projectPath": "C:\\Users\\gpenchev\\source\\repos\\SimpleMicroservice\\APIGateway\\APIGateway.csproj",
+      "projectPath": "C:\\Users\\gpenchev\\source\\repos\\ASP-Microservice-Ocelot\\APIGateway\\APIGateway.csproj",
       "packagesPath": "C:\\Users\\gpenchev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gpenchev\\source\\repos\\SimpleMicroservice\\APIGateway\\obj\\",
+      "outputPath": "C:\\Users\\gpenchev\\source\\repos\\ASP-Microservice-Ocelot\\APIGateway\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gpenchev\\AppData\\Roaming\\NuGet\\NuGet.Config",
