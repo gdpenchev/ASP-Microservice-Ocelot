@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pkdOkPqbChN3aZm6Wl7PeYhV92Nw0gj9ERqXWy0hiLzK2NWNf55jItcsEORoX6ob9Aeesm+Zebf2XpQdviIvlA==",
+  "dgSpecHash": "p28Y7357gYAAHOOpzC1drA4RiMaeU3jASBWhNh0eHN5tka61F/MC8LKM1keMfFFTaG9NeM3XqwujsKe+r2xiMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gpenchev\\source\\repos\\SimpleMicroservice\\ProductServices\\ProductServices.csproj",
+  "projectFilePath": "C:\\Users\\gpenchev\\source\\repos\\ASP-Microservice-Ocelot\\ProductServices\\ProductServices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gpenchev\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\gpenchev\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
