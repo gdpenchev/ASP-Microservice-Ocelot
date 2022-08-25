@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gpenchev\\source\\repos\\ASP-Microservice-Ocelot\\InventoryServices\\InventoryServices.csproj": {}
+    "D:\\Projects\\Microservice-Ocelot\\ASP-Microservice-Ocelot\\InventoryServices\\InventoryServices.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gpenchev\\source\\repos\\ASP-Microservice-Ocelot\\InventoryServices\\InventoryServices.csproj": {
+    "D:\\Projects\\Microservice-Ocelot\\ASP-Microservice-Ocelot\\InventoryServices\\InventoryServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gpenchev\\source\\repos\\ASP-Microservice-Ocelot\\InventoryServices\\InventoryServices.csproj",
+        "projectUniqueName": "D:\\Projects\\Microservice-Ocelot\\ASP-Microservice-Ocelot\\InventoryServices\\InventoryServices.csproj",
         "projectName": "InventoryServices",
-        "projectPath": "C:\\Users\\gpenchev\\source\\repos\\ASP-Microservice-Ocelot\\InventoryServices\\InventoryServices.csproj",
-        "packagesPath": "C:\\Users\\gpenchev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gpenchev\\source\\repos\\ASP-Microservice-Ocelot\\InventoryServices\\obj\\",
+        "projectPath": "D:\\Projects\\Microservice-Ocelot\\ASP-Microservice-Ocelot\\InventoryServices\\InventoryServices.csproj",
+        "packagesPath": "C:\\Users\\Kashona\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Microservice-Ocelot\\ASP-Microservice-Ocelot\\InventoryServices\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\gpenchev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kashona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,7 +69,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -77,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
